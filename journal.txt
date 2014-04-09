@@ -8,3 +8,5 @@ The lemon tart was tasty
 I wonder if we will have cake
 
 It would be nice if we had cake
+
+I have just edited this file with lots of interesting text.
